@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.srl
+*.crt
+*.csr
+*.csr.cnf
+.DS_Store
